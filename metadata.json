@@ -1,0 +1,8 @@
+{
+  "name": "AETHER | Future Living",
+  "description": "A futuristic furniture store featuring AI-driven interior design, levitating comfort technologies, and bio-adaptive materials.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
